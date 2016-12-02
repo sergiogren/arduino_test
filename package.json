@@ -18,6 +18,8 @@
   "homepage": "https://github.com/sergiogren/arduino_test#readme",
   "dependencies": {
     "express": "^4.14.0",
-    "johnny-five": "^0.10.6"
+    "express-nunjucks": "^2.0.2",
+    "johnny-five": "^0.10.6",
+    "nunjucks": "^3.0.0"
   }
 }
